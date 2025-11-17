@@ -21,7 +21,7 @@ Called Genotypes from the sequencing machine. Analysed using various online soft
 
 
 * **Geometric Morphometrics**: 
-Fish images were digitised using the tpsUtil64 (version 1.81) and tpsDIG2w64 (version 2.32; Rohlf 2015) software available at https://www.sbmorphometrics.org/. Once digitised, the TPS produced files (2a and 2c) and their metadata (2b and 2d) were analysed using the script sunfishGM.R
+Fish images were digitised using the tpsUtil64 (version 1.81) and tpsDIG2w64 (version 2.32; Rohlf 2015) software available at https://www.sbmorphometrics.org/. Once digitised, the TPS produced files (2a and 2c) and their metadata (2b and 2d) were analysed using the script <u>sunfishGM.R</u>
 
 2a-sunfishmtl.TPS
 
@@ -33,7 +33,7 @@ Fish images were digitised using the tpsUtil64 (version 1.81) and tpsDIG2w64 (ve
 
 
 * **Diet - stomach content**:
-Diet data for each site (Montreal/Opnincon) were accumulated into a spreadsheet workbook file that contained separate worksheets for each location. Each was then converted to a .csv file (files 3a and 3b) and analysed using the sunfishDiet.R script. 
+Diet data for each site (Montreal/Opnincon) were accumulated into a spreadsheet workbook file that contained separate worksheets for each location. Each was then converted to a .csv file (files 3a and 3b) and analysed using the <u>sunfishDiet.R script</u>. 
 
 3a-dietsdr_mtl.csv
 
@@ -41,7 +41,7 @@ Diet data for each site (Montreal/Opnincon) were accumulated into a spreadsheet 
 
 
 * **Stable Isotope data**:
-Stable Isotope data from each individual was run through the Ecological Change and Environmental Stressors Laboratory at McGill University, which then provided the corrected and calibrated data. These are the data provided herein (files 4a and 4b). The Montreal (mtl) and the Opinicon (opi) data were then analysed using the sunfishSI_mtl.R and the sunfishSI_opi.R scripts, respectively.   
+Stable Isotope data from each individual was run through the Ecological Change and Environmental Stressors Laboratory at McGill University, which then provided the corrected and calibrated data. These are the data provided herein (files 4a and 4b). The Montreal (mtl) and the Opinicon (opi) data were then analysed using the <u>sunfishSI_mtl.R</u> and the <u>sunfishSI_opi.R</u> scripts, respectively.   
 
 4a-sunfishSI_mtl.csv
 
@@ -49,7 +49,7 @@ Stable Isotope data from each individual was run through the Ecological Change a
 
 
 * **Environmental Modeling**:
-The Environmental modeling data was collected as outlined in the paper and is provided here in .csv format (file 5). It was analysed using the custom script hyb-env.R
+The Environmental modeling data was collected as outlined in the paper and is provided here in .csv format (file 5). It was analysed using the custom script <u>hyb-env.R</u>
 
 5-envcomp.csv
 
