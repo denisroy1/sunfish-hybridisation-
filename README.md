@@ -59,4 +59,4 @@ The Environmental modeling data was collected as outlined in the paper and is pr
 5-envcomp.csv
 
 ## Note: 
-All data files are available without cost at the Borealis (McGill Dataverse) data repository:  
+All data files are available without cost at the Borealis (McGill Dataverse) data repository, and can accessed using this [link](https://borealisdata.ca/dataset.xhtml?persistentId=doi%3A10.5683%2FSP3%2FYYANBO&version=DRAFT).  
