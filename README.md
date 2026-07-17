@@ -16,7 +16,7 @@ Included herein, are the scripts used in the above study that link the hybridisa
 
 
 * **Genetics**: 
-Called Genotypes from the sequencing machine. Analysed using various online software, including ARLEQUIN version 3.5.1.2 (Excoffier and Lischer 2010), STRUCTURE (Pritchard et al. 2000), CLUMPAK (Kopelman et al. 2015), Hybrid Lab version 1.1 (Nielsen et al. 2006), and GeneClass2.0 (Rannala and Mountain 1997; Piry et al. 2004). Once the data were analysed by the softwares above - the *INDIVQ* file was used in the `STRUCTURERES.R` to create plots recovering the most likely number of genetic clusters. Other results from the Geneclass/Hybrilab assignments were noted and used directly in the `hybplotsMTL-OPI.R`, which plotted the results of parental and hybrid assignments. 
+Called Genotypes from the sequencing machine. Analysed using various online software, including ARLEQUIN version 3.5.1.2 (Excoffier and Lischer 2010), STRUCTURE (Pritchard et al. 2000), CLUMPAK (Kopelman et al. 2015), NewHybrids (Anderson and Thompson 2002). Once the data were analysed by the softwares above - the *INDIVQ* file was used in the `STRUCTURERES.R` to create plots recovering the most likely number of genetic clusters. Other results from the NewHybrids assignments were noted and used directly in the `hybplotsMTL-OPI.R`, which plotted the results of parental and hybrid assignments. 
 
 1a-sunfish-genotypes2025.csv
 
